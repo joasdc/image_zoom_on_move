@@ -1,5 +1,5 @@
 name: image_zoom_on_move
-description: A new Flutter package project.
+description: A Flutter package that lets you add an image and the zoom effect when moving the mouse over this image.
 version: 1.0.0
 homepage: https://github.com/joasdc/image_zoom_on_move
 
